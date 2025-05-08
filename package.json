@@ -1,6 +1,9 @@
 {
   "name": "create-packsmith",
-  "version": "0.0.9",
+  "version": "1.0.0",
+  "author": "gazi2050",
+  "license": "MIT",
+  "description": "A CLI tool for creating projects in PackSmith.",
   "type": "module",
   "bin": {
     "create-packsmith": "dist/index.js"
@@ -9,10 +12,10 @@
   "types": "dist/index.d.ts",
   "homepage": "https://packsmith.vercel.app",
   "repository": {
-    "url": "https://github.com/Gazi2050/PackSmith"
+    "url": "https://github.com/pack-smith/create-packsmith"
   },
   "bugs": {
-    "url": "https://github.com/Gazi2050/PackSmith/issues"
+    "url": "https://github.com/pack-smith/create-packsmith/issues"
   },
   "scripts": {
     "build": "tsup",
@@ -27,9 +30,6 @@
     "packsmith",
     "create-packsmith"
   ],
-  "author": "gazi2050",
-  "license": "MIT",
-  "description": "A CLI tool for creating projects in PackSmith.",
   "dependencies": {
     "chalk": "^5.4.1",
     "commander": "^13.1.0",

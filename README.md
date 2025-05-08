@@ -1,4 +1,6 @@
-# 📦 `create-packsmith`  
+# 📦 create-packsmith  
+
+### version: `1.0.0`
 
 **A simple CLI tool to quickly start a new project with [PackSmith](https://packsmith.vercel.app)**
 
@@ -17,8 +19,8 @@ Want to help improve **PackSmith**? You're awesome — here’s how to get start
 1. **Fork & clone the repo**
 
    ```bash
-   git clone https://github.com/Gazi2050/PackSmith.git
-   cd PackSmith
+   git clone https://github.com/pack-smith/create-packsmith.git
+   cd create-packsmith
    ```
 
 2. **Install dependencies**
