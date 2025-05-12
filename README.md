@@ -1,6 +1,6 @@
 # 📦 create-packsmith  
 
-### version: `1.0.2`
+### version: `1.0.3`
 
 **A simple CLI tool to quickly start a new project with [PackSmith](https://packsmith.vercel.app)**
 
