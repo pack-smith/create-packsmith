@@ -1,6 +1,6 @@
 # 📦 create-packsmith  
 
-### version: `1.0.0`
+### version: `1.0.2`
 
 **A simple CLI tool to quickly start a new project with [PackSmith](https://packsmith.vercel.app)**
 
@@ -14,7 +14,7 @@ npx create-packsmith <project-name>
 Check out the full docs here → [PackSmith Docs](https://packsmith.vercel.app)
 ## 🙌 Contribute
 
-Want to help improve **PackSmith**? You're awesome — here’s how to get started:
+Want to help improve **create-packsmith**? You're awesome — here’s how to get started:
 
 1. **Fork & clone the repo**
 

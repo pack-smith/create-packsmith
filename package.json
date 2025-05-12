@@ -1,9 +1,9 @@
 {
   "name": "create-packsmith",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "author": "gazi2050",
   "license": "MIT",
-  "description": "A CLI tool for creating projects in PackSmith.",
+  "description": "A simple CLI tool to quickly start a new project with PackSmith",
   "type": "module",
   "bin": {
     "create-packsmith": "dist/index.js"
