@@ -19,7 +19,6 @@ We follow a strict conventional commit message format:
 | `config`        | Config changes | `config: <description>` | `config: update eslint rules` |
 | `api`           | API-related code | `api: <description>` | `api: add new endpoint for user authentication` |
 
-> 🔹 **If your commit is a `feat`, you must also include appropriate unit tests.**
 
 ## 🌿 Branch Naming
 
